@@ -8,6 +8,8 @@ Investigating business performance is crucial for any company. In this project, 
 - There are 20 numeric features and 9 categorical features.
 - Data types in the dataset include object, float64, and int64.
 
+[Documentation Details](https://github.com/Theofilusarifin/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/documentation.pdf)
+
 ## Data Preprocessing
 For detailed preprocessing steps, refer to the accompanying Jupyter notebook.
 
